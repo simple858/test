@@ -1,0 +1,9 @@
+/welcome
+---/welcome/login
+---/welcome/signup
+/user
+---/user/user_profile
+---/user/current_project
+---/user/browse_history
+---/user/success_deal
+---/user/message_box
